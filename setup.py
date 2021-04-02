@@ -10,7 +10,7 @@ setup(
     author='Syed Hammad Ahmed',
     author_email='syed.ahmed@purevpn.com',
     url='https://bitbucket.org/sha31/bi_postgres',
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+    download_url='https://github.com/sha-gaditek/bi_postgres/archive/refs/tags/0.0.1.tar.gz',
     keywords=[
         'Postgres',
         'SqlAlchemy'
