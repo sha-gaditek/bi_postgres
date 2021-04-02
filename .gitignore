@@ -1,7 +1,3 @@
-# Node artifact files
-node_modules/
-dist/
-
 # Environment and secrets
 .env.*
 
