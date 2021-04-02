@@ -9,7 +9,7 @@ setup(
     description='TYPE YOUR DESCRIPTION HERE',
     author='Syed Hammad Ahmed',
     author_email='syed.ahmed@purevpn.com',
-    url='https://github.com/user/reponame',
+    url='https://bitbucket.org/sha31/bi_postgres',
     download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
     keywords=[
         'Postgres',
